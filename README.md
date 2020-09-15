@@ -1,5 +1,5 @@
 # Awesome-Libfuzzer-Harness
-An awesome list for Effective and Powerful harnesses for fuzzing using libfuzzer
+An awesome list of Effective and Powerful harnesses for fuzzing using libfuzzer
 
 Current harnesses :
 
